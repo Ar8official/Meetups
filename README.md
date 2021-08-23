@@ -3,7 +3,7 @@
 > Next.js website for Meetups & Events. This site uses Strapi as a backend. The repo for that is below
 
 
-[VIEW DEMO](https://meetups.vercel.app)
+[VIEW DEMO](https://meetups-nine.vercel.app)
 
 # Usage
 
