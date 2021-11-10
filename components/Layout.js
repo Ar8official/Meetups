@@ -28,6 +28,6 @@ export default function Layout({ title, keywords, description, children }) {
 
 Layout.defaultProps = {
   title: 'Meetups | Find the meetups near you',
-  description: 'Find the latest DJ and other musical events',
-  keywords: 'music, dj, edm, events',
+  description: 'Find the latest events',
+  keywords: 'music, travel, host, events',
 }
